@@ -1,9 +1,10 @@
 ## Galeria de imágenes para LLMM
 
-- Descripción
+- **Descripción**
+
     Queremos aplicar todos los conocimientos hasta la fecha con HTML y CSS para presentar una pequeña página de galería de imágenes tal y como muestra el prototipo.
 
-- El diseño debe cumplir con las siguientes especificaciones:
+- El diseño debe cumplir con las siguientes **especificaciones**:
     - El color de fondo de toda la página es #D9D9D9
     - La fuente de toda la página es Arial
     - El título superior tiene un margen de 10px, una altura de 100, el color de fondo es   blanco y la fuente está en mayúsculas y centrada
