@@ -1,0 +1,27 @@
+body{
+    background-color: #D9D9D9;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.texto{
+    background-color: white;
+    height: 130px;
+    padding: 10px;
+}
+.galeria{
+    border-top: 1px;
+    margin: 10px;
+    background-color: white;
+}
+p{
+    margin: 10px;
+    height: 100px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: white;
+}
+.cuadro{
+    display: inline-block;
+    margin: 30px;
+    padding: 10px;
+    background-color: #D9D9D9;
+}
