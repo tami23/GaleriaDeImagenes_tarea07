@@ -17,9 +17,11 @@ h3{
 }
 .texto{
     background-color: white;
+    margin-top: 5px;
     height: 100px;
     padding: 10px;
     text-align: left;
+    font-size: small;
 }
 .cuadro{
     display: inline-block;
