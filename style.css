@@ -15,6 +15,16 @@ h3{
     background-color: white;
     text-align: center;
 }
+.cuadro{
+    display: inline-block;
+    margin: 30px;
+    padding: 10px;
+    background-color: #D9D9D9;
+}
+.foto{
+    width: 226px;
+    height: 130px;
+}
 .texto{
     background-color: white;
     margin-top: 5px;
@@ -22,10 +32,4 @@ h3{
     padding: 10px;
     text-align: left;
     font-size: small;
-}
-.cuadro{
-    display: inline-block;
-    margin: 30px;
-    padding: 10px;
-    background-color: #D9D9D9;
 }
